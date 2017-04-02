@@ -24,8 +24,17 @@ Marc Mentha @Acconitum
 
 ## Changelog
 
-### 0.0.1 2017-04-03
+### 0.0.2 2017-04-02
+
+* Feature: Added snippet post-type
+* Feature: Added snippet fields
+* Feature: Added javascript for dynamic textarea height
+* Feature: Added Tutorialcategory
+
+
+### 0.0.1 2017-04-01
 
 * Feature: Setting up structure
 * Feature: Exits if accessed directly
 * Feature: Added tutorial post-type
+* Feature: Added tutorial fields
