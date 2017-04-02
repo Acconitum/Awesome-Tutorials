@@ -27,3 +27,5 @@ Marc Mentha @Acconitum
 ### 0.0.1 2017-04-03
 
 * Feature: Setting up structure
+* Feature: Exits if accessed directly
+* Feature: Added tutorial post-type

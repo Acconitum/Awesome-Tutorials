@@ -1,0 +1,34 @@
+.at-meta-row {
+
+}
+.at-meta-field {
+
+}
+.at-meta-label {
+
+}
+.at-meta-input {
+
+}
+.at-meta-input-textarea {
+  width: 100%;
+  height: 100%;
+  outline: none;
+  box-sizing: border-box;
+  resize: none;
+}
+
+.at-btn-expand {
+  text-align: right;
+}
+
+.hiddendiv {
+  display: none;
+  white-space: pre-wrap;
+  width: 500px;
+  min-height: 50px;
+  font-family: Arial, sans-serif;
+  font-size: 13px;
+  padding: 5px;
+  word-wrap: break-word;
+}
