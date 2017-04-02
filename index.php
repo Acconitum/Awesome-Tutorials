@@ -10,5 +10,9 @@ Author URI: http://cubetech.ch
 License: A "Slug" license name e.g. GPL2
 */
 
-include ( 'lib/init.php' );
-include ( 'lib/fields/tutorial_fields.php' );
+//exit if accessed directly
+if ( ! defined( 'ABSPATH' ) ) {
+  exit;
+}
+
+require_once ( plugin_dir_path(__FILE__) . 'init.php' );
